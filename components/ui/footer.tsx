@@ -26,7 +26,7 @@ export default function Footer() {
                 <li>
                   <a
                     className="flex justify-center items-center text-purple-500 hover:text-purple-400 transition duration-150 ease-in-out"
-                    href="http://linkedin.com/in/思源-杨-5603a0315"
+                    href="https://www.linkedin.com/in/siyuan-yang-5603a0315"
                     aria-label="Linkedin"
                   >
                     <Image
